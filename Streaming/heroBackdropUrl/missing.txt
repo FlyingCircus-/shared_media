@@ -1,4 +1,0 @@
-criterion channel
-curiosity stream
-mgm+
-starz
